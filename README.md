@@ -1,6 +1,12 @@
 # Retail Sales & Profitability Analysis with SQL Database Design
 
-🔗 [View Full Analysis](https://medium.com/@bintangpradanaa/studi-kasus-perancangan-database-minimart-dan-analisis-data-menggunakan-sql-110cd3be15d4)
+<p align="center">
+  <img src="images/retail-minimart.jpg" width="1000"/>
+</p>
+
+### Resources
+- 📊 [Full Analysis (Medium)](https://medium.com/@bintangpradanaa/studi-kasus-perancangan-database-minimart-dan-analisis-data-menggunakan-sql-110cd3be15d4)  
+- 💻 [SQL Code](https://github.com/bintangpradanaa/retail-sales-profitability-analysis-with-sql-database-design/minimart)  
 
 ## Project Overview
 Minimart is a growing retail company operating across multiple branches in Indonesia, offering products such as food, beverages, vegetables, and fruits. However, only a portion of branches currently have recorded sales data.
