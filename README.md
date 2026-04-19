@@ -6,7 +6,7 @@
 
 ### Resources
 - 📊 [Full Analysis (Medium)](https://medium.com/@bintangpradanaa/studi-kasus-perancangan-database-minimart-dan-analisis-data-menggunakan-sql-110cd3be15d4)  
-- 💻 [SQL Code](https://github.com/bintangpradanaa/retail-sales-profitability-analysis-with-sql-database-design/minimart)  
+- 💻 [SQL Code]([https://github.com/bintangpradanaa/retail-sales-profitability-analysis-with-sql-database-design/minimart](https://github.com/bintangpradanaa/retail-sales-profitability-analysis-with-sql-database-design/tree/main/SQL%20Code))  
 
 ## Project Overview
 Minimart is a growing retail company operating across multiple branches in Indonesia, offering products such as food, beverages, vegetables, and fruits. However, only a portion of branches currently have recorded sales data.
@@ -28,6 +28,9 @@ The database consists of **8 relational tables**:
 - `ms_kota`, `ms_propinsi`
 
 Designed using **relational modeling (ERD)** with proper key relationships.
+<p align="center">
+  <img src="images/ERD.jpg" width="1000"/>
+</p>
 
 ## Tools
 - MySQL  
