@@ -5,7 +5,7 @@
 </p>
 
 ## Resources
-- 📊 [Full Analysis (Medium)](https://medium.com/@bintangpradanaa/studi-kasus-perancangan-database-minimart-dan-analisis-data-menggunakan-sql-110cd3be15d4)  
+- 📊 [Report)](https://medium.com/@bintangpradanaa/studi-kasus-perancangan-database-minimart-dan-analisis-data-menggunakan-sql-110cd3be15d4)  
 - 💻 [SQL Code](https://github.com/bintangpradanaa/retail-sales-profitability-analysis-with-sql-database-design/blob/main/SQL%20Code/minimart.sql)
 
 ## Project Overview
@@ -37,7 +37,6 @@ Designed using **relational modeling (ERD)** with proper key relationships.
 - DBeaver  
 
 ## Key Insights
-
 - Only 3 branches have transaction data, indicating incomplete data integration and limited visibility for decision-making.
 - Profit increases from Q1 to Q3 but drops in Q4, suggesting missed opportunities during peak end-of-year demand.
 - Transactions fluctuate, with several months consistently below average, indicating unstable sales performance.
@@ -52,8 +51,3 @@ Designed using **relational modeling (ERD)** with proper key relationships.
 - Replicate successful strategies from top-performing branches to underperforming ones.
 - Reevaluate pricing and cost structure for high-volume but low-margin products (e.g., kobis).
 - Implement incentive systems and training programs to elevate overall employee performance.
-
-## Output
-- Relational database (8 tables)  
-- SQL-based analysis  
-- Actionable business insights
